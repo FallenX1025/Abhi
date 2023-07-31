@@ -98,12 +98,12 @@ buttons = [
         InlineKeyboardButton(text=" ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs ", callback_data="Main_help"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="mukesh_"),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="☃️ᴀʙᴏᴜᴛ☃️", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🥀❄️ᴅᴇᴠᴇʟᴏᴘᴇʀ❄️🥀", url=f"tg://user?id={OWNER_ID}"),
     ],
     [
-       InlineKeyboardButton(text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-       InlineKeyboardButton(text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"https://t.me/iconic_botshub"),
+       InlineKeyboardButton(text="💐sᴜᴩᴩᴏʀᴛ🍁", url=f"https://t.me/{SUPPORT_CHAT}"),
+       InlineKeyboardButton(text="✨υρԃαƚҽʂ 🍷", url=f"https://t.me/iconic_botshub"),
      ], 
 ]
 
