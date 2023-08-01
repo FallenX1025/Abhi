@@ -76,12 +76,12 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """
-────「 [˹ iƈσɳι𝚌 ✘ ᴍᴜsɪᴄ ˼](https://te.legra.ph/file/73209b40b167750d9c637.jpg) 」────
+────「 [˹ iƈσɳι𝚌 ✘ ᴍᴜsɪᴄ ˼](https://te.legra.ph/file/186c6ffc368be00bef681.jpg) 」────
 
 *ʜᴇʏ* {} ✨, 
 
 *๏ ᴛʜɪs ɪs* {}!
-[ㅤ]("https://te.legra.ph/file/73209b40b167750d9c637.jpg")
+[ㅤ]("https://te.legra.ph/file/186c6ffc368be00bef681.jpg")
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ + ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
 ──────────────────
