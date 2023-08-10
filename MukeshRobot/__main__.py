@@ -76,7 +76,7 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """
-────「 [˹ iƈσɳι𝚌 ✘ ᴍᴜsɪᴄ ˼]("https://t.me/IconicXRobot") 」────
+────「 [˹ iƈσɳι𝚌 ✘ ᴍᴜsɪᴄ ˼](https://te.legra.ph/file/bb69ee128b9c4b7e8f02c.mp4) 」────
 
 *ʜᴇʏ* {} ✨, 
 
